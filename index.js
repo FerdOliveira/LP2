@@ -13,3 +13,4 @@
 
 var linguagem = "JavaScript"
 console.log("Aprendendo "+ linguagem)
+console.log(linguagem)
